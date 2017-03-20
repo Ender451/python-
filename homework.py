@@ -1,6 +1,6 @@
 #encoding :utf-8
 #2017-03-20
-#郭中源
+#
 #
 #作业一，乘法表
 import random
